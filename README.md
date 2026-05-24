@@ -29,9 +29,4 @@ This project does **not** distribute proprietary game assets, copyrighted game c
 
 To use this project, users must legally own a copy of *Naruto: The Broken Bond* for Xbox 360.
 
-This project exists for:
-- Preservation
-- Research
-- Education
-
 No piracy is supported or encouraged.
